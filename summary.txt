@@ -1,0 +1,7 @@
+Weather Summary Report
+
+===================
+
+Average Temperature: 28.20
+Average Humidity: 63.40
+Total Rainfall: 28.56
