@@ -1,4 +1,4 @@
-# 🌦 Weather Data Analysis — README
+# 🌦 Weather Data Analysis
 
 ## 📌 Project Overview
 
